@@ -1,0 +1,7 @@
+[book]
+title = "Purpose & Profit"
+authors = ["iamflipse"]
+description = "Study notes on Dan Koe, Purpose & Profit, Essays Volume 1."
+
+[build]
+charset = "utf-8"
